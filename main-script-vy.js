@@ -966,7 +966,7 @@ ${this.wrapWithColor("⚡", "#ff8c00")}  ${this.wrapWithColor(
       "Github:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://github.com/vansh9793693385-source" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/vansh9793693385-source</a>',
+      '<a href="https://github.com/vaibhav-buildz" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/vaibhav-buildz</a>',
       "#ffffff"
     )}
 
