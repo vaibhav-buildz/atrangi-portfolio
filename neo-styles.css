@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Vaibhav Yadav - All Rights Reserved */
 * {
   margin: 0;
   padding: 0;
@@ -1893,8 +1894,10 @@ body[data-theme="dark"] .stat-number {
 
   .journey-map-container {
     height: 600px;
-    grid-column: 2;
+    grid-column: 1 / -1; /* Stretch across both columns */
+    grid-row: 1; /* Place in the same row as timeline */
     z-index: 1;
+    margin-left: 400px; /* Offset to the right column */
   }
 }
 

@@ -1,0 +1,27 @@
+{
+  "name": "atrangi-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main-script-vy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansh9793693385-source/atrangi-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vansh9793693385-source/atrangi-portfolio/issues"
+  },
+  "homepage": "https://github.com/vansh9793693385-source/atrangi-portfolio#readme",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
